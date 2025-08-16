@@ -1,4 +1,4 @@
-# My cool App
+# My cool App => hot app(feature)
 
 마이 쿨 앱 사용 방법 
 
